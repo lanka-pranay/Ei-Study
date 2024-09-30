@@ -7,13 +7,16 @@ This repository contains the assignment files for the recruitment process of **E
 This exercise involves creating six use-cases for different design patterns, with two examples for each category:
 
 1. **Behavioral Design Patterns**  
-   - [Brief description of the use-cases or additional notes, if applicable.]
+   - PaymentApp
+   - WeatherApp
 
 2. **Creational Design Patterns**  
-   - [Brief description of the use-cases or additional notes, if applicable.]
+   - ConfigApp
+   - NotificationApp
 
 3. **Structural Design Patterns**  
-   - [Brief description of the use-cases or additional notes, if applicable.]
+   - FileSystemApp
+   - MediaApp
 
 ## Exercise 2: Astronaut Daily Schedule Organizer
 
