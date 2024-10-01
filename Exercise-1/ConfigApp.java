@@ -5,9 +5,7 @@
 class ConfigurationManager {
     private static ConfigurationManager instance;
 
-    private ConfigurationManager() {
-        // Load configuration settings
-    }
+    private ConfigurationManager() {}
 
     public static ConfigurationManager getInstance() {
         if (instance == null) {
